@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/0x_fool" target="blank"><img src="https://img.shields.io/twitter/follow/0x_fool?logo=twitter&style=for-the-badge" alt="0x_fool" /></a> </p>
 - 💻 I am currently enrolled as a student at 42 Network's 1337 campus.
+
 - 🌱 Currently learning **C, React**
 
 - 💬 Ask me about **javascript, C, Python, HTML, CSS**
