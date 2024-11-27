@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1chgro" alt="1chgro" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/0x_fool" target="blank"><img src="https://img.shields.io/twitter/follow/0x_fool?logo=twitter&style=for-the-badge" alt="0x_fool" /></a> </p>
+
 - 💻 I am currently enrolled as a student at 42 Network's 1337 campus.
 
 - 🌱 Currently learning **C, React**
