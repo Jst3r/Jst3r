@@ -7,7 +7,7 @@
 
 - 💻 I am currently enrolled as a student at 42 Network's 1337 campus.
 
-- 🌱 Currently learning **C, React**
+- 🌱 Currently learning **C, Rust**
 
 - 💬 Ask me about **javascript, C, Python, HTML, CSS**
 
