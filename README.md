@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1chgro&label=Profile%20views&color=0e75b6&style=flat" alt="1chgro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1chgro" alt="1chgro" /></a> </p>
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=olachgue)](https://github.com/mohouyizme/1337-readme)
+
 <p align="left"> <a href="https://twitter.com/0x_fool" target="blank"><img src="https://img.shields.io/twitter/follow/0x_fool?logo=twitter&style=for-the-badge" alt="0x_fool" /></a> </p>
 
 - 💻 I am currently enrolled as a student at 42 Network's 1337 campus.
