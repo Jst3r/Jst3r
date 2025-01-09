@@ -4,11 +4,6 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/olachgue" alt="olachgue's 42 stats" /></a>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1chgro&label=Profile%20views&color=0e75b6&style=flat" alt="1chgro" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1chgro" alt="1chgro" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/0x_fool" target="blank"><img src="https://img.shields.io/twitter/follow/0x_fool?logo=twitter&style=for-the-badge" alt="0x_fool" /></a> </p>
 
 - 💻 I am currently enrolled as a student at 42 Network's 1337 campus.
