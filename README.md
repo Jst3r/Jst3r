@@ -4,7 +4,6 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/olachgue" alt="olachgue's 42 stats" /></a>
 </div>
 
-<p align="center"><a href="https://twitter.com/0x_fool" target="blank"><img src="https://img.shields.io/twitter/follow/0x_fool?logo=twitter&style=for-the-badge" alt="0x_fool" /></a> </p>
 
 
 - 🌱 Currently learning **C, Rust**
