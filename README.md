@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 
 
-<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/olachgue" alt="olachgue's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img align="center" src="https://badge.mediaplus.ma/water/olachgue" alt="olachgue's 42 stats" /></a>
 
 
-<p align="center"> <a href="https://twitter.com/0x_fool" target="blank"><img src="https://img.shields.io/twitter/follow/0x_fool?logo=twitter&style=for-the-badge" alt="0x_fool" /></a> </p>
+<p align="center"><a href="https://twitter.com/0x_fool" target="blank"><img src="https://img.shields.io/twitter/follow/0x_fool?logo=twitter&style=for-the-badge" alt="0x_fool" /></a> </p>
 
 
 - 🌱 Currently learning **C, Rust**
