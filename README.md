@@ -1,4 +1,3 @@
-
 # Hi there, I'm Omar! 👋
 
 <p align="center">
@@ -9,9 +8,8 @@
 
 ## 🚀 About Me:
 - 💻 Student at **1337 | 42 Network**, learning **C** and exploring **Rust**.
-- 🛠️ Tech enthusiast with experience in **C, Python, HTML, CSS, JavaScript, Tailwind CSS**.
+- 🛠️ Tech enthusiast with experience in **C, Python, HTML, CSS, JavaScript, and Tailwind CSS**.
 - 📚 Passionate about technical books and continuous learning.
-- 🎯 Aspiring to finish the common core at 1337 and build a successful startup.
 
 ---
 
@@ -21,10 +19,9 @@ Here are some of my featured projects:
 - [**libft**](https://github.com/1chgro/libft) – Custom C library with essential functions.
 - [**ft_printf**](https://github.com/1chgro/ft_printf) – Reimplementation of printf in C.
 - [**get_next_line**](https://github.com/1chgro/get_next_line) – Read a line from a file descriptor in C.
+- [**minitalk**](https://github.com/1chgro/minitalk) – A project for inter-process communication using UNIX signals.
 
 You can find more projects on my [GitHub](https://github.com/1chgro?tab=repositories)!
-
----
 
 ## 📊 GitHub Stats:
 <p align="center">
