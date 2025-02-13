@@ -37,6 +37,7 @@ You can find more projects on my [GitHub](https://github.com/1chgro?tab=reposito
   <a href="https://github.com/1chgro"><img src="https://img.shields.io/badge/GitHub-1chgro-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:1chgro@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/omar-1achguer/"><img src="https://img.shields.io/badge/LinkedIn-Omar%20Lachguer-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://x.com/0x_fool"><img src="https://img.shields.io/badge/X-0x__fool-000000?style=for-the-badge&logo=x" /></a>
 </p>
 
 ---
