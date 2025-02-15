@@ -8,7 +8,6 @@
 
 ## 🚀 About Me:
 - 💻 Student at **1337 | 42 Network**, learning **C** and exploring **Rust**.
-- 🛠️ Tech enthusiast with experience in **C, Python, HTML, CSS, JavaScript, and Tailwind CSS**.
 - 📚 Passionate about technical books and continuous learning.
 
 ---
