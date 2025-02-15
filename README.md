@@ -27,11 +27,11 @@
 
 ## 🏆 Projects:
 Here are some of my featured projects:
-- [**so_long**](https://github.com/1chgro/so_long) – A 2D game with enemy AI using chase behavior.
-- [**libft**](https://github.com/1chgro/libft) – Custom C library with essential functions.
-- [**ft_printf**](https://github.com/1chgro/ft_printf) – Reimplementation of printf in C.
-- [**get_next_line**](https://github.com/1chgro/get_next_line) – Read a line from a file descriptor in C.
-- [**minitalk**](https://github.com/1chgro/minitalk) – A project for inter-process communication using UNIX signals.
+- [**so_long**](https://github.com/1chgro/so_long) – A 2D game with enemy AI using chase behavior ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![SDL](https://img.shields.io/badge/SDL-043B8F?style=flat&logo=SDL&logoColor=white)
+- [**libft**](https://github.com/1chgro/libft) – Custom C library with essential functions ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+- [**ft_printf**](https://github.com/1chgro/ft_printf) – Reimplementation of printf in C ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+- [**get_next_line**](https://github.com/1chgro/get_next_line) – Read a line from a file descriptor in C ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+- [**minitalk**](https://github.com/1chgro/minitalk) – A project for inter-process communication using UNIX signals ![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
 
 You can find more projects on my [GitHub](https://github.com/1chgro?tab=repositories)!
 
