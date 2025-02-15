@@ -25,8 +25,8 @@ You can find more projects on my [GitHub](https://github.com/1chgro?tab=reposito
 
 ## 📊 GitHub Stats:
 
-  <img src="https://github-readme-stats.vercel.app/api?username=1chgro&show_icons=true&theme=radical" alt="0xfool's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1chgro&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1chgro&show_icons=true&theme=radical" alt="0xfool's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chgro&layout=compact&theme=radical" alt="Top Languages" />
 
 ---
