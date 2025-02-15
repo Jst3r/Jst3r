@@ -24,11 +24,11 @@ Here are some of my featured projects:
 You can find more projects on my [GitHub](https://github.com/1chgro?tab=repositories)!
 
 ## 📊 GitHub Stats:
-<p align="center">
+<div style="display:flex; flex-direction:column; align-items:left;">
   <img src="https://github-readme-stats.vercel.app/api?username=1chgro&show_icons=true&theme=radical" alt="0xfool's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1chgro&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1chgro&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
