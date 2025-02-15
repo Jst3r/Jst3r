@@ -9,7 +9,7 @@
 ## 🚀 About Me:
 - 💻 Student at **1337 | 42 Network**, learning **C** and exploring **Rust**.
 - 📚 Passionate about technical books and continuous learning.
-- 🛠️ Skilled in:
+## 🛠️ Skills:
   </br>
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
