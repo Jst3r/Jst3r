@@ -9,6 +9,19 @@
 ## 🚀 About Me:
 - 💻 Student at **1337 | 42 Network**, learning **C** and exploring **Rust**.
 - 📚 Passionate about technical books and continuous learning.
+- 🛠️ Skilled in:
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+  ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
@@ -33,7 +46,7 @@ You can find more projects on my [GitHub](https://github.com/1chgro?tab=reposito
 ## 🌐 Let's Connect:
 <p align="center">
   <a href="https://github.com/1chgro"><img src="https://img.shields.io/badge/GitHub-1chgro-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:1chgr077@gmail.com.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:1chgr077@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/omar-1achguer/"><img src="https://img.shields.io/badge/LinkedIn-Omar%20Lachguer-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://x.com/0x_fool"><img src="https://img.shields.io/badge/X-0x__fool-000000?style=for-the-badge&logo=x" /></a>
 </p>
@@ -43,4 +56,3 @@ You can find more projects on my [GitHub](https://github.com/1chgro?tab=reposito
 > *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
 <p align="center">Let's build something amazing together! 🚀</p>
-
