@@ -8,8 +8,7 @@
 
 ## 🚀 About Me:
 - 💻 Student at **1337 | 42 Network**, learning **C** and exploring **Rust**.
-- 📚 Passionate about technical books and continuous learning.
-- 
+- 📚 Passionate about low-level programming.
 ---
 
 ## 🏆 Projects:
