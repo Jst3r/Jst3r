@@ -7,9 +7,17 @@
 ---
 
 ## 🚀 About Me:
-- 💻 Student at **1337 | 42 Network**, learning **C** and exploring **Rust**.
-- 📚 Passionate about low-level programming.
+- 💻 Student at **1337 | 42 Network**, learning **C**.
+- 📚 Passionate about low-level programming and CyberSecurity.
 ---
+
+## 🧠 Skill Set:
+
+**Languages & Markup**:JavaScript, C, Python, HTML, CSS, Bash
+
+**Frameworks**:Tailwind CSS, Bootstrap, React
+
+**Tools & Technologies**:Git, GitHub, Linux, Vim/Neovim
 
 ## 🏆 Projects:
 Here are some of my featured projects:
