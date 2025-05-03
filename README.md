@@ -27,7 +27,7 @@ Here are some of my featured projects:
 - [**get_next_line**](https://github.com/1chgro/get_next_line) – Read a line from a file descriptor in C.
 - [**minitalk**](https://github.com/1chgro/minitalk) – A project for inter-process communication using UNIX signals.
 
-You can find more projects on my [GitHub](https://github.com/1chgro?tab=repositories)!
+You can find more projects on my [profile](https://github.com/1chgro?tab=repositories)!
 
 ## 📊 GitHub Stats:
 
