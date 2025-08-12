@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 💻 Student at **1337 | 42 Network**, currently learning **C** and exploring **C++**, **Node.js**, and **SQL**.
+- 💻 Student at **1337 | 42 Network**
 - 📚 Passionate about low-level programming, backend development, and CyberSecurity.
 - 🌱 Always learning new things and up for a challenge.
 
