@@ -32,7 +32,7 @@ Find more projects on my [GitHub profile](https://github.com/1chgro?tab=reposito
 ## 🧰 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,typescript,nodejs,expressjs,sql,html,css,bash,react,tailwind,bootstrap,git,github,linux,vim" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,typescript,nodejs,expressjs,sql,html,css,bash,react,tailwind,git" />
 </p>
 
 ---
