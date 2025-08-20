@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Omar!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Tech+Enthusiast;Student+at+1337+%7C+42+Network;Lifelong+Learner;C%2B%2B+%7C+Node.js+%7C+SQL+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Tech+Enthusiast;Student+at+1337+%7C+42+Network;Lifelong+Learner" />
 </p>
 
 ---
