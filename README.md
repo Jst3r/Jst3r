@@ -17,15 +17,15 @@
 ## 🏆 Projects
 
 Here are some of my featured projects:
-- [**msh**](https://github.com/J5T3R0R/msh) – A minimal shell implementation in C.
-- [**philosophers**](https://github.com/J5T3R0R/philosophers_42) – The classic dining philosophers concurrency problem in C.
-- [**so_long**](https://github.com/J5T3R0R/so_long) – A 2D game with enemy AI using chase behavior.
-- [**libft**](https://github.com/J5T3R0R/libft) – Custom C library with essential functions.
-- [**ft_printf**](https://github.com/J5T3R0R/ft_printf) – Reimplementation of printf in C.
-- [**get_next_line**](https://github.com/J5T3R0R/get_next_line) – Read a line from a file descriptor in C.
-- [**minitalk**](https://github.com/J5T3R0R/minitalk) – Inter-process communication using UNIX signals.
+- [**msh**](https://github.com/Jst3r/msh) – A minimal shell implementation in C.
+- [**philosophers**](https://github.com/Jst3r/philosophers_42) – The classic dining philosophers concurrency problem in C.
+- [**so_long**](https://github.com/Jst3r/so_long) – A 2D game with enemy AI using chase behavior.
+- [**libft**](https://github.com/Jst3r/libft) – Custom C library with essential functions.
+- [**ft_printf**](https://github.com/Jst3r/ft_printf) – Reimplementation of printf in C.
+- [**get_next_line**](https://github.com/Jst3r/get_next_line) – Read a line from a file descriptor in C.
+- [**minitalk**](https://github.com/Jst3r/minitalk) – Inter-process communication using UNIX signals.
 
-Find more projects on my [GitHub profile](https://github.com/J5T3R0R/?tab=repositories)!
+Find more projects on my [GitHub profile](https://github.com/Jst3r/?tab=repositories)!
 
 ---
 
@@ -40,9 +40,9 @@ Find more projects on my [GitHub profile](https://github.com/J5T3R0R/?tab=reposi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J5T3R0R&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=J5T3R0R&show_icons=true&theme=radical" alt="J5T3R0R's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J5T3R0R&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jst3r&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jst3r&show_icons=true&theme=radical" alt="Jst3r's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jst3r&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
