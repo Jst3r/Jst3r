@@ -53,7 +53,7 @@ Find more projects on my [GitHub profile](https://github.com/J5T3R0R/?tab=reposi
   <a href="https://github.com/J5T3R0R"><img src="https://img.shields.io/badge/GitHub-J5T3R0R-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:1chgr077@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/omar-1achguer/"><img src="https://img.shields.io/badge/LinkedIn-Omar%20Lachguer-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://x.com/J5T3R0R"><img src="https://img.shields.io/badge/X-J5T3R0R-000000?style=for-the-badge&logo=x" /></a>
+  <a href="https://x.com/whoistrickster"><img src="https://img.shields.io/badge/X-whoistrickster-000000?style=for-the-badge&logo=x" /></a>
 </p>
 
 ---
