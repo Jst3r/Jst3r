@@ -1,43 +1,44 @@
-# Hi there 👋, I'm Omar!
+# 🧠 Omar Lachguer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Tech+Enthusiast;Student+at+1337+%7C+42+Network;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Student+at+1337+%7C+42+Network;Systems+%26+Backend+Developer;Loves+Reverse+Engineering+%26+Cybersecurity;Always+Building%2C+Always+Learning" />
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-- 💻 Student at **1337 | 42 Network**
-- 📚 Passionate about low-level programming, backend development, and CyberSecurity.
-- 🌱 Always learning new things and up for a challenge.
-
----
-
-## 🏆 Projects
-
-Here are some of my featured projects:
-- [**msh**](https://github.com/Jst3r/msh) – A minimal shell implementation in C.
-- [**philosophers**](https://github.com/Jst3r/philosophers_42) – The classic dining philosophers concurrency problem in C.
-- [**so_long**](https://github.com/Jst3r/so_long) – A 2D game with enemy AI using chase behavior.
-- [**libft**](https://github.com/Jst3r/libft) – Custom C library with essential functions.
-- [**ft_printf**](https://github.com/Jst3r/ft_printf) – Reimplementation of printf in C.
-- [**get_next_line**](https://github.com/Jst3r/get_next_line) – Read a line from a file descriptor in C.
-- [**minitalk**](https://github.com/Jst3r/minitalk) – Inter-process communication using UNIX signals.
-
-Find more projects on my [GitHub profile](https://github.com/Jst3r/?tab=repositories)!
+- 💻 **Student @ 1337 | 42 Network**  
+- 🧩 Passionate about **systems programming**, **reverse engineering**, and **cybersecurity**  
+- 🧠 Obsessed with understanding how things *really* work under the hood  
+- 🌱 Currently diving deeper into **C++**, **assembly**, and **low-level architecture**  
+- 🔍 Loves solving **CTF challenges** & contributing to open-source
 
 ---
 
-## 🧰 Languages & Tools
+## 🚀 Featured Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,typescript,nodejs,expressjs,sql,html,css,bash,react,tailwind,git" />
+- 🐚 [**msh**](https://github.com/Jst3r/msh) → A custom UNIX-like shell written from scratch in C  
+- 🧵 [**philosophers**](https://github.com/Jst3r/philosophers_42) → Classic concurrency problem using pthreads  
+- 🎮 [**so_long**](https://github.com/Jst3r/so_long) → 2D adventure game with pathfinding enemy AI  
+- ⚙️ [**libft**](https://github.com/Jst3r/libft) → A full-featured C library reinventing the standard one  
+- 🖨️ [**ft_printf**](https://github.com/Jst3r/ft_printf) → My own implementation of `printf` in C  
+- 📜 [**get_next_line**](https://github.com/Jst3r/get_next_line) → File reading utility built from scratch  
+- 📡 [**minitalk**](https://github.com/Jst3r/minitalk) → Lightweight IPC communication via UNIX signals  
+
+> 💡 More on my [GitHub profile](https://github.com/Jst3r?tab=repositories)
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,js,ts,nodejs,express,react,tailwind,html,css,sql,git,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jst3r&theme=radical" alt="GitHub Streak" />
@@ -47,7 +48,7 @@ Find more projects on my [GitHub profile](https://github.com/Jst3r/?tab=reposito
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/J5T3R0R"><img src="https://img.shields.io/badge/GitHub-J5T3R0R-181717?style=for-the-badge&logo=github" /></a>
@@ -58,6 +59,6 @@ Find more projects on my [GitHub profile](https://github.com/Jst3r/?tab=reposito
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+> *“Code is like a puzzle — and I like breaking it apart to see what’s inside.”*
 
-<p align="center">Let's build something amazing together! 🚀</p>
+<p align="center">⚙️ Always hacking, always learning. ⚙️</p>
