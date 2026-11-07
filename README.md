@@ -1,3 +1,2 @@
-# Omar (Jst3r)
+# Jst3r
 
-Software Engineering student | Reverse Engineering & Low-level Programming
